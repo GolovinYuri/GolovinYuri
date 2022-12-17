@@ -1,8 +1,8 @@
 <div id="Header" aling="center">
-    <img src="https://media.giphy.com/media/Uhfxdu4PnOPdLcWDm6/giphy.gif" width="500"/>
+    <img src="https://media.giphy.com/media/WHCMVuE4BuWiZSJN2U/giphy.gif" width="1500"/>
 </div>
 
-About me
+## I'm a begginner QA-engineer
 
 My assignments and jobs
 
