@@ -4,7 +4,7 @@
 
 ## I'm a begginner QA-engineer
 
-My assignments and jobs
+My assignments and works
 
 Languages and Tools
 
