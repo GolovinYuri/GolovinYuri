@@ -2,7 +2,7 @@
     <img src="https://media.giphy.com/media/WHCMVuE4BuWiZSJN2U/giphy.gif" width="700"/>
 </div>
 
-## I'm a begginner QA-engineer. It's my portfolio.
+## I'm a junior QA-engineer. It's my portfolio.
 Successfully completed training on the portal "Yandex.Practicum". In "My assignments and works" you can see what tasks I had and what solutions I applied.
 ## My assignments and works
 - [Testing the Yandex.Routes service. Mindmap + equivalence and boundary value classes.](https://github.com/GolovinYuri/GolovinYuri/tree/main/Task%201)
